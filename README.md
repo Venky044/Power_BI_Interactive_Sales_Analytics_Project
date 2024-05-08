@@ -1,6 +1,6 @@
 # Maven-Market-Power-BI-Data-Analysis
 
-### Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Data Journey](#data-journey)
