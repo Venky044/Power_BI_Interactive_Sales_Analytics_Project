@@ -36,6 +36,8 @@ The data journey began with the foundational steps of cleaning and transforming 
 ## Project Demo Video
 <a id="project-demo-video"></a>
 
+https://github.com/Venky044/Maven-Market-Power-BI-Data-Analysis/assets/115688026/0d001c08-293e-4fd5-85a5-686e161a11e9
+
 ## Conclusion
 <a id="conclusion"></a>
 The Maven Market Data Analyst project underscores the power of data analytics in uncovering meaningful insights from complex datasets. Through meticulous analysis and visualization, I have revealed valuable trends and patterns that can inform strategic decision-making and drive business growth. I invite you to explore the interactive dashboard and delve deeper into the fascinating world of data analysis in the retail industry.
