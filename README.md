@@ -42,4 +42,4 @@ https://github.com/Venky044/Maven-Market-Power-BI-Data-Analysis/assets/115688026
 <a id="conclusion"></a>
 The Maven Market Data Analyst project underscores the power of data analytics in uncovering meaningful insights from complex datasets. Through meticulous analysis and visualization, I have revealed valuable trends and patterns that can inform strategic decision-making and drive business growth. I invite you to explore the interactive dashboard and delve deeper into the fascinating world of data analysis in the retail industry.
 
-Thank you for visiting our repository, and I hope you find this project informative and insightful!
+Thank you for visiting my repository, and I hope you find this project informative and insightful!
