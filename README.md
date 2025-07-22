@@ -11,7 +11,7 @@
 
 ## Introduction
 <a id="introduction"></a>
-Welcome to the Maven Market Data Analyst GitHub Repository!
+Welcome to the Power BI Interactive Sales Analytics Project GitHub Repository!
 
 In the Power BI Interactive Sales Analytics Project, I created an interactive dashboard containing 3 pages: Topline performance, product details, and customer details. This dashboard serves as a comprehensive tool for analyzing key metrics and trends in sales, product performance, and customer behavior.
 
