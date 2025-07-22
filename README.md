@@ -1,4 +1,4 @@
-# Maven-Market-Power-BI-Data-Analysis
+# Power BI Interactive Sales Analytics Project
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 <a id="introduction"></a>
 Welcome to the Maven Market Data Analyst GitHub Repository!
 
-In the Maven Market Data Analyst project, I created an interactive dashboard containing 3 pages: Topline performance, product details, and customer details. This dashboard serves as a comprehensive tool for analyzing key metrics and trends in sales, product performance, and customer behavior.
+In the Power BI Interactive Sales Analytics Project, I created an interactive dashboard containing 3 pages: Topline performance, product details, and customer details. This dashboard serves as a comprehensive tool for analyzing key metrics and trends in sales, product performance, and customer behavior.
 
 ## Data Journey
 <a id="data-journey"></a>
@@ -40,6 +40,6 @@ https://github.com/Venky044/Maven-Market-Power-BI-Data-Analysis/assets/115688026
 
 ## Conclusion
 <a id="conclusion"></a>
-The Maven Market Data Analyst project underscores the power of data analytics in uncovering meaningful insights from complex datasets. Through meticulous analysis and visualization, I have revealed valuable trends and patterns that can inform strategic decision-making and drive business growth. I invite you to explore the interactive dashboard and delve deeper into the fascinating world of data analysis in the retail industry.
+The Power BI Interactive Sales Analytics Project underscores the power of data analytics in uncovering meaningful insights from complex datasets. Through meticulous analysis and visualization, I have revealed valuable trends and patterns that can inform strategic decision-making and drive business growth. I invite you to explore the interactive dashboard and delve deeper into the fascinating world of data analysis in the retail industry.
 
 Thank you for visiting my repository, and I hope you find this project informative and insightful!
